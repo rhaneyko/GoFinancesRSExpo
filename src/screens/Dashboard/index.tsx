@@ -25,7 +25,7 @@ export default function Dashboard(){
                  <UserInfo>
                      <Photo source={{ uri: 'https://avatars.githubusercontent.com/u/80545536?v=4'}}/>
                      <User>
-                         <UserGretting>Hello</UserGretting>
+                         <UserGretting>Olá, </UserGretting>
                          <UserName>Rhaneyko</UserName>
                      </User>
                  </UserInfo>
