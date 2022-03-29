@@ -1,6 +1,20 @@
 import React from 'react';
 import { HighlightCard } from '../../components/HighlightCard';
-import { Container, Header, UserInfo, Photo, User, UserGretting, UserName, UserWrapper, Icon, HighlightCards} from './styles'
+import {
+     Container,
+     Header,
+     UserInfo,
+     Photo,
+     User,
+     UserGretting,
+     UserName,
+     UserWrapper,
+     Icon,
+     HighlightCards,
+     Transactions,
+     Title,
+    
+    } from './styles'
 
 
 export default function Dashboard(){
@@ -23,6 +37,9 @@ export default function Dashboard(){
                  <HighlightCard/>
                  <HighlightCard/>
              </HighlightCards>
+             <Transactions>
+                 <Title>Listagem</Title>
+             </Transactions>
              
         </Container>
     )
