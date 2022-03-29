@@ -22,7 +22,6 @@ export default function Dashboard(){
                  <HighlightCard/>
                  <HighlightCard/>
                  <HighlightCard/>
-                 <HighlightCard/>
              </HighlightCards>
              
         </Container>
