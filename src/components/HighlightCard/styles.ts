@@ -26,6 +26,7 @@ export const Title = styled.Text`
     color: ${({ theme }) => theme.colors.title};
     font-size: ${RFValue(14)}px;
     font-weight: bold;
+    
 `;
 
 

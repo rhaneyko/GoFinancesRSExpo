@@ -1,6 +1,13 @@
 import React from 'react'
 
-import { Container, Header, Title, Icon, Footer, Amount, LastTransaction } from './styles'
+import { Container,
+     Header,
+     Title,
+     Icon,
+     Footer,
+     Amount,
+     LastTransaction,
+     } from './styles'
 
 export function HighlightCard(){
     return(
